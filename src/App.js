@@ -48,7 +48,6 @@ class App extends Component {
     const cards = Object.keys(this.state.recettes)
      .map(key => <Card key = { key} details= {this.state.recettes[key]}/>)
 
-    console.log(cards)
        return (
       <div className='box'>
         <Header pseudo= {this.state.pseudo}></Header>
