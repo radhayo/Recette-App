@@ -93,7 +93,7 @@ class Admin extends Component {
                 <button onClick={chargerExemple}>Remplir</button>
             </footer>
             </div>
-        );
+        )
     }
 }
 
