@@ -2,10 +2,12 @@ import React from 'react'
 // CSS
 import './App.css'
 import Header from './components/Header'
+import PropTypes from 'prop-types'
 
 import Admin from './components/Admin'
 import Card from './components/Card'
 import withFirebase from './hoc/withFirebase'
+
 
 const App = ({
   match,
@@ -33,6 +35,14 @@ const App = ({
         chargerExemple={chargerExemple}/>
       </div> 
     )
+}
+App.propTypes = {
+  match: PropTypes.object.isRequired,
+  recettes: PropTypes.object.isRequired,
+  ajouterRecette: PropTypes.func.isRequired,
+  majRecette: PropTypes.func.isRequired,
+  supprimerRecette: PropTypes.func.isRequired,
+  chargerExemple: PropTypes.func.isRequired
 }
     
 const WrappedComponent = withFirebase(App)
