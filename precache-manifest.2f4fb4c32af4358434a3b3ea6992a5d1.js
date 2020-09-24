@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/Recette-App/static/media/epinard.815852b9.jpg"
   },
   {
-    "revision": "410efa3616755b52959a",
+    "revision": "5f194ba884bff9645ffc",
     "url": "/Recette-App/static/css/main.b2de39e8.chunk.css"
   },
   {
-    "revision": "f65e562a3858aff61c45",
-    "url": "/Recette-App/static/js/1.f65e562a.chunk.js"
+    "revision": "89fe6f442aa59e7e2937",
+    "url": "/Recette-App/static/js/1.89fe6f44.chunk.js"
   },
   {
     "revision": "636a5fc935ac9ddce164",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/Recette-App/static/media/chocolat.4200b6b9.jpeg"
   },
   {
-    "revision": "410efa3616755b52959a",
-    "url": "/Recette-App/static/js/main.410efa36.chunk.js"
+    "revision": "5f194ba884bff9645ffc",
+    "url": "/Recette-App/static/js/main.5f194ba8.chunk.js"
   },
   {
     "revision": "fca17319421519cbb9d73c85b4879566",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Recette-App/static/media/tartine.96c2f754.jpg"
   },
   {
-    "revision": "1febada741163c8e96c69916dae392de",
+    "revision": "4d786c60fb3e290e2c7ce68405a192a2",
     "url": "/Recette-App/index.html"
   }
 ];

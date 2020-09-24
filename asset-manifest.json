@@ -1,9 +1,9 @@
 {
   "main.css": "/Recette-App/static/css/main.b2de39e8.chunk.css",
-  "main.js": "/Recette-App/static/js/main.410efa36.chunk.js",
-  "main.js.map": "/Recette-App/static/js/main.410efa36.chunk.js.map",
-  "static/js/1.f65e562a.chunk.js": "/Recette-App/static/js/1.f65e562a.chunk.js",
-  "static/js/1.f65e562a.chunk.js.map": "/Recette-App/static/js/1.f65e562a.chunk.js.map",
+  "main.js": "/Recette-App/static/js/main.5f194ba8.chunk.js",
+  "main.js.map": "/Recette-App/static/js/main.5f194ba8.chunk.js.map",
+  "static/js/1.89fe6f44.chunk.js": "/Recette-App/static/js/1.89fe6f44.chunk.js",
+  "static/js/1.89fe6f44.chunk.js.map": "/Recette-App/static/js/1.89fe6f44.chunk.js.map",
   "runtime~main.js": "/Recette-App/static/js/runtime~main.636a5fc9.js",
   "runtime~main.js.map": "/Recette-App/static/js/runtime~main.636a5fc9.js.map",
   "static/media/default.jpeg": "/Recette-App/static/media/default.b9a86c50.jpeg",
@@ -15,6 +15,6 @@
   "static/media/chocolat.jpeg": "/Recette-App/static/media/chocolat.4200b6b9.jpeg",
   "static/css/main.b2de39e8.chunk.css.map": "/Recette-App/static/css/main.b2de39e8.chunk.css.map",
   "index.html": "/Recette-App/index.html",
-  "precache-manifest.a3f09ec1d1cef339b68bb12ebc88e6e7.js": "/Recette-App/precache-manifest.a3f09ec1d1cef339b68bb12ebc88e6e7.js",
+  "precache-manifest.2f4fb4c32af4358434a3b3ea6992a5d1.js": "/Recette-App/precache-manifest.2f4fb4c32af4358434a3b3ea6992a5d1.js",
   "service-worker.js": "/Recette-App/service-worker.js"
 }
