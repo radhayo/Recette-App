@@ -7,7 +7,7 @@ import NotFound from './components/NotFound'
 import * as serviceWorker from './serviceWorker'
 
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Route,
   Switch
 } from 'react-router-dom'
