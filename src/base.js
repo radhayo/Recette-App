@@ -1,12 +1,9 @@
 import Rebase from 're-base'
 import firebase from 'firebase/app'
 import 'firebase/database'
+import { FIREBASE_CONFIG } from './config'
 
-const firebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyDX7LQqlHLXOhEYitOcoZPm5R0D9x0xjmc",
-    authDomain: "recettes-app-ce7fe.firebaseapp.com",
-    databaseURL: "https://recettes-app-ce7fe.firebaseio.com",
-})
+const firebaseApp = firebase.initializeApp(FIREBASE_CONFIG)
 
 const base = Rebase.createClass(firebaseApp.database())
 
@@ -15,3 +12,4 @@ export { firebaseApp }
 
 // this is a default export
 export default base
+ 
